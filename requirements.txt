@@ -1,0 +1,11 @@
+langchain
+chromadb
+sentence-transformers
+transformers
+pandas
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+pypdf
+anthropic
